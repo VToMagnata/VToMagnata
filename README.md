@@ -1,4 +1,4 @@
-## Oiii eu sou o Vitor Losina Trevisan, desenvolvedor front-end em constante evolução!
+## Olá, eu sou o Vitor Trevisan, desenvolvedor front-end!
 
 Atualmente focado em criar interfaces modernas, responsivas e funcionais com as melhores tecnologias do mercado.  
 Sou apaixonado por programação, estudo todos os dias e compartilho meus projetos e aprendizados com o mundo!
