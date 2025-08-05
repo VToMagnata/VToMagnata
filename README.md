@@ -27,7 +27,7 @@ Sou apaixonado por programação, estudo todos os dias e compartilho meus projet
   <a href="https://www.linkedin.com/in//vitor-trevisan-143467354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vitorportifolio42.netlify.app" target="_blank">
+  <a href="portfoliovitao.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
