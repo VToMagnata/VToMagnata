@@ -19,6 +19,10 @@ Sou apaixonado por programação, estudo todos os dias e compartilho meus projet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.svgporn.com/logos/prisma.svg" width="40"/>
 </p>
 
 ---
